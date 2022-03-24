@@ -35,6 +35,23 @@ For more cv details, you can reach my [hh.ru account](https://spb.hh.ru/resume/2
 
 ## CODE EXAMPLE:
 
+**Example from CODEWARS**
+
+```
+function multiply(a, b){
+  return a * b;
+}
+
+let res = multiply(3,5);
+console.log(result)
+```
+
+**Projects:**
+
+[How to learn](https://github.com/yuliakovylina/how_to_learn)
+[Russian travel](https://yuliakovylina.github.io/russian_travel/)
+[Playlist](https://yuliakovylina.github.io/playlist/playlist.html)
+
 ## EDUCATION:
 
 - **Foreign Languages University** (St.Petersburg) - unfinished
@@ -47,5 +64,5 @@ For more cv details, you can reach my [hh.ru account](https://spb.hh.ru/resume/2
 ## LANGUAGES:
 
 - Russian - Native
-- English - B1
+- English - B2
 - Spanish - A2
