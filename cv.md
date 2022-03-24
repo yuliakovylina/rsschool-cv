@@ -1,6 +1,6 @@
 # Yulia Kovylina
 
-![Alt-портрет](./IMG_2.jpg =100x300)
+<img src="./IMG_2.jpg" width="100" height="300">
 
 ## Junior frontend-developer
 
