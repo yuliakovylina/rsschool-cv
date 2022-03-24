@@ -20,7 +20,7 @@ I'm 35 and have been deeply learning frontend-development for 2 years. I owned a
 
 Due to artistic sense and professional skills in design, and in addition to frontend-skills - I love creating web-sites from the very beginning (idea, product investigation, prototype and design) and till the step of being useful and clear to both sides (my client and his/her customers) from the desktop or mobile screens.
 
-For more cv details, you can reach my [hh.ru account] (https://spb.hh.ru/resume/2ae0c6d4ff0985486d0039ed1f305358583679)
+For more cv details, you can reach my [hh.ru account](https://spb.hh.ru/resume/2ae0c6d4ff0985486d0039ed1f305358583679)
 
 ## SKILLS
 
