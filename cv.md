@@ -1,6 +1,6 @@
 # Yulia Kovylina
 
-![Alt-портрет](./IMG_2.jpg)
+![Alt-портрет](./IMG_2.jpg =100\*300)
 
 ## Junior frontend-developer
 
@@ -50,7 +50,11 @@ console.log(result)
 
 **Projects:**
 
-1.[How to learn](https://github.com/yuliakovylina/how_to_learn) 2.[Russian travel](https://yuliakovylina.github.io/russian_travel/) 3.[Playlist](https://yuliakovylina.github.io/playlist/playlist.html)
+1. [How to learn](https://github.com/yuliakovylina/how_to_learn)
+
+2. [Russian travel](https://yuliakovylina.github.io/russian_travel/)
+
+3. [Playlist](https://yuliakovylina.github.io/playlist/playlist.html)
 
 ## EDUCATION:
 
