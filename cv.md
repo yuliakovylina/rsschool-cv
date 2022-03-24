@@ -1,6 +1,6 @@
 # Yulia Kovylina
 
-<img src="./IMG_2.jpg" width="200" height="300">
+<img src="./IMG_2.jpg" width="200" height="350">
 
 ## Junior frontend-developer
 
@@ -50,11 +50,11 @@ console.log(result)
 
 **Projects:**
 
-1. [How to learn](https://github.com/yuliakovylina/how_to_learn) _Practice in flex-box, animation_
+1. [How to learn](https://github.com/yuliakovylina/how_to_learn) _- practice in flex-box, animation_
 
-2. [Russian travel](https://yuliakovylina.github.io/russian_travel/) _Practice in Grid, Media queries_
+2. [Russian travel](https://yuliakovylina.github.io/russian_travel/) _- practice in Grid, Media queries_
 
-3. [Playlist](https://yuliakovylina.github.io/playlist/playlist.html) _DOM practice_
+3. [Playlist](https://yuliakovylina.github.io/playlist/playlist.html) _- DOM practice_
 
 ## EDUCATION:
 
