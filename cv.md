@@ -1,5 +1,7 @@
 # Yulia Kovylina
 
+![Alt-портрет](./IMG_2.jpg)
+
 ## Junior frontend-developer
 
 ### CONTACT ME:
@@ -20,7 +22,7 @@ I'm 35 and have been deeply learning frontend-development for 2 years. I owned a
 
 Due to artistic sense and professional skills in design, and in addition to frontend-skills - I love creating web-sites from the very beginning (idea, product investigation, prototype and design) and till the step of being useful and clear to both sides (my client and his/her customers) from the desktop or mobile screens.
 
-For more cv details, you can reach my [hh.ru account](https://spb.hh.ru/resume/2ae0c6d4ff0985486d0039ed1f305358583679)
+For more cv details, you can reach my resume [hh.ru](https://spb.hh.ru/resume/2ae0c6d4ff0985486d0039ed1f305358583679)
 
 ## SKILLS
 
@@ -48,9 +50,7 @@ console.log(result)
 
 **Projects:**
 
-[How to learn](https://github.com/yuliakovylina/how_to_learn)
-[Russian travel](https://yuliakovylina.github.io/russian_travel/)
-[Playlist](https://yuliakovylina.github.io/playlist/playlist.html)
+1.[How to learn](https://github.com/yuliakovylina/how_to_learn) 2.[Russian travel](https://yuliakovylina.github.io/russian_travel/) 3.[Playlist](https://yuliakovylina.github.io/playlist/playlist.html)
 
 ## EDUCATION:
 
