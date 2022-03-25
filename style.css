@@ -38,8 +38,8 @@ div {
   margin: 0 auto;
   width: 900px;
   background-color: white;
-  border-radius: 20px;
   border: 1px solid gainsboro;
+  border-radius: 20px;
 }
 
 .underline {
@@ -51,9 +51,11 @@ div {
 .header {
   position: relative;
   display: flex;
-  height: 250px;
+  height: 200px;
   background-image: url(./images/fon-svetlii-beton-75.jpeg);
   background-size: cover;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 
 .header__pic {
@@ -63,10 +65,10 @@ div {
 
 .header__pic-container {
   position: relative;
-  top: 50px;
+  top: 40px;
   left: 0;
-  width: 220px;
-  height: 220px;
+  width: 200px;
+  height: 200px;
   border: 8px solid whitesmoke;
   background-image: url(./bw.jpg);
   background-size: cover;
@@ -107,7 +109,6 @@ div {
 
 .main {
   display: flex;
-  height: 900px;
 }
 
 .main__title {
@@ -203,7 +204,7 @@ div {
 /* ABOUT */
 
 .main-about {
-  margin: 50px 0 40px 70px;
+  margin: 40px 0 0 70px;
   max-width: 75%;
 }
 
@@ -223,6 +224,7 @@ div {
 .skills {
   max-width: 70%;
   margin-left: 70px;
+  margin-top: 40px;
 }
 
 .skills-items {
@@ -233,6 +235,24 @@ div {
 .skills-item {
 }
 
+/* LANGUAGES */
+
+.main-languages {
+  max-width: 70%;
+  margin-left: 70px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.main-languages__item {
+  font-size: 14px;
+}
+
+.main-languages__item_step {
+  font-size: 14px;
+  font-weight: 200;
+}
+
 /* FOOTER */
 
 .footer {
@@ -240,13 +260,41 @@ div {
   height: 60px;
   background-image: url(./images/fon-svetlii-beton-75.jpeg);
   background-size: cover;
-}
-.footer__contacts {
-  width: 40%;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
 }
 
 .footer__copyright {
+  width: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.footer__copyright-item {
+  font-weight: 200;
+  margin-left: 50px;
+}
+
+.footer__socials {
   background-color: black;
   width: 60%;
   border-bottom-right-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.footer__social {
+  margin-right: 40px;
+}
+
+.footer__social-link {
+}
+
+.footer__social-pic {
+  width: 24px;
+  height: 24px;
+  background-color: white;
+  padding: 2px;
 }
