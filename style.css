@@ -1,0 +1,252 @@
+@font-face {
+  font-family: Poppins;
+  font-weight: 700;
+  src: url("./fonts/Poppins-Bold.ttf");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 500;
+  src: url("/fonts/Poppins-Medium.ttf");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 200;
+  src: url("./fonts/Poppins-Light.ttf");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+div {
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  font-family: Poppins;
+  font-weight: 500;
+  background-color: whitesmoke;
+}
+
+.container {
+  margin: 0 auto;
+  width: 900px;
+  background-color: white;
+  border-radius: 20px;
+  border: 1px solid gainsboro;
+}
+
+.underline {
+  margin-bottom: 20px;
+}
+
+/* HEADER */
+
+.header {
+  position: relative;
+  display: flex;
+  height: 250px;
+  background-image: url(./images/fon-svetlii-beton-75.jpeg);
+  background-size: cover;
+}
+
+.header__pic {
+  position: relative;
+  margin: auto;
+}
+
+.header__pic-container {
+  position: relative;
+  top: 50px;
+  left: 0;
+  width: 220px;
+  height: 220px;
+  border: 8px solid whitesmoke;
+  background-image: url(./bw.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.header__name {
+  display: flex;
+  background-image: url(./images/fon-chernii-granzh-3.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 60%;
+  border-top-right-radius: 20px;
+}
+
+.header-intro {
+  margin: auto;
+  color: white;
+  max-width: 75%;
+}
+
+.header-intro__title {
+  font-size: 30px;
+}
+
+.header-intro__subtitle {
+  margin-bottom: 15px;
+}
+
+.header-intro__text {
+  font-weight: 200;
+  font-size: 10px;
+  line-height: 1.8;
+}
+
+/* MAIN */
+
+.main {
+  display: flex;
+  height: 900px;
+}
+
+.main__title {
+  font-weight: 500;
+}
+
+.main-item {
+  margin-bottom: 30px;
+}
+
+.main-item__data {
+  font-weight: 200;
+  font-size: 12px;
+}
+
+.main-item__profession {
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+
+.main-item__company {
+  font-weight: 200;
+  font-size: 12px;
+}
+
+.main-item__achievments {
+}
+
+.main-item__achievment {
+}
+
+.main-item__achievment-link {
+  color: white;
+  font-weight: 200;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+/* LEFT SIDE OF CV */
+
+.main__personal {
+  color: white;
+  width: 40%;
+  background-image: url(./images/fon-chernii-granzh-3.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.main-contacts {
+  margin: 80px auto 50px;
+  max-width: 70%;
+}
+
+.contact-icon {
+  padding: 2px;
+  width: 24px;
+  height: 24px;
+  background-color: white;
+}
+
+.contact-text {
+  margin-left: 20px;
+}
+
+.main-contacts__items {
+  font-weight: 200;
+  font-size: 10px;
+}
+
+.main-contacts__item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.main-education {
+  max-width: 70%;
+  margin: auto;
+}
+
+.main-education__title {
+  font-weight: 500;
+}
+
+/* RIGHT SIDE OF CV */
+
+.main__professional {
+  width: 60%;
+  background-image: url(./images/fon-svetlii-beton-75.jpeg);
+  background-size: cover;
+}
+
+/* ABOUT */
+
+.main-about {
+  margin: 50px 0 40px 70px;
+  max-width: 75%;
+}
+
+.main-about__text {
+  font-weight: 200;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.main-about__link {
+  color: black;
+  text-decoration: none;
+}
+
+/* Skills */
+
+.skills {
+  max-width: 70%;
+  margin-left: 70px;
+}
+
+.skills-items {
+  font-weight: 200;
+  font-size: 14px;
+}
+
+.skills-item {
+}
+
+/* FOOTER */
+
+.footer {
+  display: flex;
+  height: 60px;
+  background-image: url(./images/fon-svetlii-beton-75.jpeg);
+  background-size: cover;
+}
+.footer__contacts {
+  width: 40%;
+}
+
+.footer__copyright {
+  background-color: black;
+  width: 60%;
+  border-bottom-right-radius: 20px;
+}
