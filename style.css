@@ -70,7 +70,7 @@ div {
   width: 200px;
   height: 200px;
   border: 8px solid whitesmoke;
-  background-image: url(./bw.jpg);
+  background-image: url(./images/IMG_20210112.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -101,7 +101,7 @@ div {
 
 .header-intro__text {
   font-weight: 200;
-  font-size: 10px;
+  font-size: 14px;
   line-height: 1.8;
 }
 
@@ -249,7 +249,7 @@ div {
 }
 
 .main-languages__item_step {
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 200;
 }
 
